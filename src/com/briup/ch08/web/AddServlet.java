@@ -15,7 +15,7 @@ import com.briup.ch08.service.impl.ProductServiceImpl;
 /**
  * Servlet implementation class addServlet
  */
-@WebServlet("/addproduct")
+@WebServlet("/add")
 public class AddServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
    //关联Service对象

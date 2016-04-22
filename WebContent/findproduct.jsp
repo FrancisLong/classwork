@@ -9,9 +9,9 @@
 <body>
 	<center>
 		<h1>查找商品</h1>
-		<form action="find" method="post">
-			输入商品名称：<input type="text" name="name"><br> <input type="submit"
-				name="查找">
+		<form action="findproduct" method="post">
+			输入商品名称：<input type="text" name="name"><br> 
+			<input type="submit" value="查找">>
 		</form>
 	</center>
 </body>
